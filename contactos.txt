@@ -1,0 +1,7 @@
+German	pass1	04244187298
+Yuni	pass2	04248912
+Choncha	pass3	1231231
+Chavez	pass4	2017
+Javier	pass5	04241231
+Jaqueline	pass6	1231231
+Rominna	pass7	1231231
